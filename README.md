@@ -14,4 +14,3 @@
 - **Authentication & Authorization:** OAuth, JWT  
 - **Real-Time Communications:** WebSocket  
 - **Generative AI:** OpenAI APIs, ChatGPT  
-- **Third-Party Integrations:** Google APIs, Facebook SDK, Twitter API  
