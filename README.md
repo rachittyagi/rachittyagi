@@ -1,23 +1,46 @@
-# Hi there, I'm Rachit Tyagi! 👋
+# Hi there, I'm Rachit Tyagi 👋
 
-**Full Stack Web Developer | Angular | React | Node.js | .NET Core | Generative AI**
+**Senior Full Stack Engineer | Distributed Systems | Agentic AI | Angular | React | Node.js | .NET Core**
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer with **12+ years of experience** in designing and developing enterprise-grade, scalable web applications. I specialize in modern web technologies and AI-driven solutions.
+Welcome to my GitHub. I’m a senior full stack engineer with **12+ years of experience** building **scalable, secure, and production-grade software systems**.  
+My work spans frontend platforms, backend architecture, cloud-native infrastructure, and **Agentic AI systems designed for reliability and control**.
 
-## 🚀 About Me
+I focus on building systems that **age well in production**, not just prototypes.
 
-- 🔭 Currently working as **Senior Software Engineer**, building SAAS-based ERP applications
-- 🎯 **12+ years** of experience architecting high-performance web solutions and leading development teams
-- 🤖 Passionate about **Generative AI/LLMs** and integrating **OpenAI APIs** into real-world applications
-- 🏗️ Expert in **microservices architecture**, **cloud computing**, and **DevOps practices**
-- 👥 Experienced in **leading teams**, **mentoring developers**, and conducting technical reviews
-- 🌱 Continuously learning and staying updated with the latest technology trends
+---
+
+## 🚀 Professional Summary
+
+- 🧠 **12+ years** of experience delivering enterprise and SaaS platforms
+- 🏗️ Strong foundation in **system design, architecture, and API platforms**
+- 🤖 Hands-on with **Agentic AI and LLM-based systems**, beyond chat interfaces
+- ☁️ Experience across **AWS, Azure, Docker, and CI/CD pipelines**
+- 👥 Comfortable operating as **Senior IC, Tech Lead, or Architecture Owner**
+- 🔍 Known for clean code, pragmatic trade-offs, and long-term maintainability
+
+---
+
+## 🤖 Agentic AI & Intelligent Systems (Focus Area)
+
+I work with **Agentic AI systems** where LLMs are treated as **controlled reasoning components**, not opaque black boxes.
+
+Key areas of focus:
+- **Schema-first and contract-driven AI workflows**
+- **Deterministic LLM outputs** using validation and guardrails
+- **Tool-using agents** integrated with APIs, databases, and background services
+- **Multi-step reasoning pipelines** with clear agent boundaries
+- **Human-in-the-loop** and safety-aware designs
+- Practical, production-oriented use of **LLM APIs**
+
+The emphasis is always on **predictability, observability, and real-world impact**.
+
+---
 
 ## 🛠️ Technical Expertise
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 🎨 Frontend Engineering
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,86 +51,63 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with **12+ years of 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Server Technologies
+### ⚙️ Backend & Platform Engineering
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🗄️ Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Data & Persistence
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Delivery
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🤖 AI & Modern Development
+### 🤖 AI-Assisted Development
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔧 Development Tools & Practices
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
 </div>
 
-### 🏗️ Architecture & Design Patterns
-- **Frontend**: Component-based architecture, State Management (Redux, NgRx), Reactive Programming (RxJS)
-- **Backend**: RESTful APIs, Microservices Architecture, Clean Architecture, SOLID Principles
-- **Database**: Schema Design, Query Optimization, Database Migration Strategies
-- **Authentication**: OAuth 2.0, JWT Token Management, Role-based Access Control
-- **Real-time**: WebSocket Implementation, WebHooks, Server-Sent Events
-- **Testing**: Unit Testing, Integration Testing, Test-Driven Development (TDD)
-- **DevOps**: CI/CD Pipeline Design, Containerization, Infrastructure as Code
+---
 
+## 🏗️ Engineering & Architecture Practices
 
+- **System Design**: Modular monoliths, microservices, API-first platforms
+- **Security**: OAuth 2.0, JWT, RBAC, secure service boundaries
+- **Scalability**: Stateless services, async processing, performance tuning
+- **AI Systems**: Schema-validated outputs, agent orchestration, tool integration
+- **Quality**: Automated testing, code reviews, observability, CI/CD pipelines
+- **Collaboration**: Documentation, mentoring, and cross-team alignment
 
-## 📊 GitHub Stats
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachittyagi&layout=compact&theme=tokyonight) ![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachittyagi&show_icons=true&theme=tokyonight&count_private=true)  
+## 📈 Contribution Graph
 
+![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachittyagi&theme=tokyo-night)
 
-## 🔥 Contribution Streak
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rachittyagi&theme=tokyonight)
-
-## 🏆 Achievements & Impact
-
-- 🚀 **12+ years** of enterprise application development experience
-- 🤖 Built **AI-powered systems** using OpenAI APIs with **30% performance improvement**
-- ⚡ Optimized deployment processes reducing manual efforts by **40%**
-- 📈 Improved application load times by **50%** through architecture modernization
-- 👥 Led and mentored development teams across multiple projects
-- 🏗️ Architected scalable microservices-based solutions
-
-
-
-
-
-## 🤝 Let's Connect!
+## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyagirachit/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](http://rachittyagi.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:torachitkumar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachittyagi)
 
-## 📈 Activity Graph
-
-![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachittyagi&theme=tokyo-night)
-
 ---
 
-💡 **"Passionate about architecting high-performance solutions, API development, and AI-driven applications"**
+💡 *Focused on building dependable systems, thoughtful architectures, and practical AI-driven solutions.*
 
-⭐️ From [rachittyagi](https://github.com/rachittyagi) | 📊 ![Profile Views](https://komarev.com/ghpvc/?username=rachittyagi&color=brightgreen)
+⭐️ From [rachittyagi](https://github.com/rachittyagi)  
+
+📊 ![Profile Views](https://komarev.com/ghpvc/?username=rachittyagi&color=brightgreen)
